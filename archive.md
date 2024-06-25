@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Blog Archive
+title: Blog Contents
 ---
+1. [Understanding DataOps](https://sagars19.github.io/UDO_post_v1.html)
+   - Key Components
+   - The Importance of DataOps in Modern Data Management
+1.1 Data Ingestion
+   - Methods and Technologies for Data Ingestion
+   - Case Scenario: Implementing Real-time Data Ingestion in a Retail Environment
+   - Best Practices for Efficient Data Ingestion
 
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+     
+
