@@ -9,7 +9,7 @@ title: Blog Contents
 
     **1.1 Data Ingestion**
       - Methods and Technologies for Data Ingestion
-      - Case Scenario: Implementing Real-time Data Ingestion in a Retail Environment
+      - Case Scenario: Implementing Real-time Data Ingestion
       - Best Practices for Efficient Data Ingestion
 
      
