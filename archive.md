@@ -7,7 +7,7 @@ title: Blog Contents
    - The Importance of DataOps in Modern Data Management
 
 
-   **1.1 Data Ingestion**
+#### 1.1 Data Ingestion
    - Methods and Technologies for Data Ingestion
    - Case Scenario: Implementing Real-time Data Ingestion in a Retail Environment
    - Best Practices for Efficient Data Ingestion
