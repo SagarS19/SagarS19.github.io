@@ -7,7 +7,7 @@ title: Blog Contents
    - The Importance of DataOps in Modern Data Management
 
 
-    [**1.1 Data Ingestion**](https://github.com/SagarS19/SagarS19.github.io/blob/main/DI_post_v1.md)
+    [**1.1 Data Ingestion**](https://github.com/SagarS19/SagarS19.github.io/blob/main/DI_post_v1.html)
       - Methods and Technologies for Data Ingestion
       - Case Scenario: Implementing Real-time Data Ingestion
       - Best Practices for Efficient Data Ingestion
