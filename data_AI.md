@@ -1,10 +1,10 @@
 ---
-title: "Unlocking the Power of Data for AI Products and Solutions"
+title: "Data for AI"
 author: "Sagar Srivastava"
 layout: post
 ---
 
-# Unlocking the Power of Data for AI Products and Solutions
+#Introduction
 
 In the rapidly evolving world of artificial intelligence (AI), the foundation of successful AI products and solutions lies in high-quality data. From collection to selection, cleaning, and labeling, each step in the data pipeline is crucial for developing robust AI models. Let's explore the journey of data in the AI lifecycle.
 
