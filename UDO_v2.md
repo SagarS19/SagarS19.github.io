@@ -49,4 +49,10 @@ For example:
 
 - **Accuracy**: How many records are error-free?
 - **Timeliness**: Is the data reaching downstream systems on time?
-- **Anomaly Detection Rate**
+- **Anomaly Detection Rate**: How often are issues flagged by auditors?
+
+One week, the Timeliness metric drops—data is taking too long to process. A quick investigation reveals a recurring bottleneck: duplicate order entries requiring manual intervention. With this insight, you automate duplicate checks, improving the flow and reducing delays.
+
+Metrics are your feedback loop, helping you refine processes and focus on areas that need improvement.
+
+---
